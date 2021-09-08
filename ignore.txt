@@ -1,1 +1,2 @@
 Testing gitignore
+All the commmits should be ignored
